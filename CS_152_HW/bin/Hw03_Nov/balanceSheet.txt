@@ -1,0 +1,12 @@
+John Doe, 0, 0.0, deposit, 2024-11-15, 0.0
+Eric Smith, 1000001, 250.0, deposit, 2024-11-15, 250.0
+Eric Smith, 1000001, 78.5, deposit, 2024-11-15, 328.5
+Eric Smith,  1000001, 100.0, withdraw, 2024-11-15, 228.5
+Walter Golden, 1000002, 700.0, deposit, 2024-11-15, 700.0
+Margret Jefferson, 1000003, 970.0, deposit, 2024-11-15, 970.0
+Steven Young, 1000004, 0.0, deposit, 2024-11-15, 0.0
+Walter Golden,  1000002, 500.0, deposit, 2024-11-15, 1200.0
+Walter Golden,   1000002, 430.0, withdraw, 2024-11-15, 770.0
+Eric Smith,   1000001, 90.0, withdraw, 2024-11-15, 138.5
+Steven Young,  1000004, 780.0, deposit, 2024-11-15, 780.0
+Margret Jefferson,  1000003, 75.64, withdraw, 2024-11-15, 894.36
